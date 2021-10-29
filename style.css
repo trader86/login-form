@@ -79,9 +79,12 @@ body {
     color: #ffffff;
     box-shadow: 3px 3px 8px #b1b1b1,
     -3px -3px 8px #ffffff;
+    transition: all 0.3s ease-in;
+
 }
 .login-button:hover {
     background: #50e5b9;
+
 
 }
 .link {
